@@ -2,7 +2,7 @@
 
 <a href="https://sore-bee-lab-coat.cyclic.app/">Backend deployed Link</a>
 
-<a href="https://drive.google.com/file/d/1U30lS4zqm8J_0dKFYbFUeAAwRiTilOow/view?usp=sharing">Output Presentation</a>
+<a href="https://drive.google.com/file/d/1U30lS4zqm8J_0dKFYbFUeAAwRiTilOow/view?usp=sharing">Output Presentation Link</a>
 
 ### Folder structure 
 - config : containing db.js
